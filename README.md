@@ -27,7 +27,7 @@ The script takes a high-contrast Black and White image (like the Harry Potter si
 ```text
 /Text-Art-Generator
 │
-├── /assets              # Original images (e.g., hp1.3.jpg)
+├── /images              # Original images (e.g., hp1.3.jpg)
 ├── /src                 # Main Python source code
 ├── /screenshot_output   # Reference images of the final result
 └── README.md
@@ -41,13 +41,13 @@ Before running the code, you need the Pillow and Colorama libraries. Install the
 Bash
 pip install Pillow colorama
 2. Prepare the Image
-Make sure your image (e.g., hp1.3.jpg) is placed inside the assets/ folder.
+Make sure your image (e.g., hp1.3.jpg) is placed inside the images/ folder.
 
 3. Execution via CMD
 Open your Command Prompt (CMD).
 
 Navigate to the project's source directory:
-
+asse
 Bash
 cd "C:\Path\To\Your\Text-Art-Generator\src"
 Execute the Python script:
