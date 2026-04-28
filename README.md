@@ -1,4 +1,4 @@
-# 🧙‍♂️ Python Text Art Generator: Harry Potter Edition
+# 🧙‍♂️ Python Text Art Generator: Harry Potter Edition  (YEAR : 2020)
 
 ### 💻 Technical Portfolio | Language: Python
 This project is an image-to-ASCII transformation engine that maps high-contrast pixel data into a character-based visual representation. It demonstrates the use of **Binary Classification** of pixel intensity and **Terminal Data Rendering**.
